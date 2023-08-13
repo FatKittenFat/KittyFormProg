@@ -18,6 +18,8 @@ class RegisterPeople:  UIViewController {
         navigationItem.titleView?.tintColor = .black
         navigationItem.title = "Registro habitantes"
 
+        //cambios desde kitty
+        
     }
     
 }
